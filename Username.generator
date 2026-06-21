@@ -1,0 +1,6 @@
+ame = input("Enter your name:" )
+birth_year = input("Enter your birth year:" )
+
+username = name + birth_year
+
+print("Generated Username:",username)
