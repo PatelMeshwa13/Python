@@ -1,0 +1,10 @@
+name = input("Enter Name: ")
+enroll = input("Enter Enrollment no.: ")
+branch = input("Enter Branch: ")
+semester = input("Enter Semester: ")
+
+print("\n----- Student ID card -----")
+print("Name:",name)
+print("Enrollment no.:",enroll)
+print("Branch:",branch)
+print("Semester:",semester)
